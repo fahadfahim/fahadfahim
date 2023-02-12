@@ -1,12 +1,19 @@
 <h1 align="center">Hi :wave:, I'm Md. Fahad Fahim</h1>
 
+<p align="left"> <img src="https://gpvc.arturio.dev/fahadfahim" alt="fahadfahim" /> </p>
+
+- :seedling: I’m currently learning **NodeJs**
+
+
 ### :star: Statistics
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fahadfahim&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadfahim&theme=tokyonight" />
 </p>
 <hr>
 ### :computer: Stack I Work
+
 <p  align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
